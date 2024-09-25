@@ -36,9 +36,3 @@ This script is responsible for scraping Mpox-related data from external sources.
 
 ---
 
-## Installation
-
-To run this project, ensure you have Python installed on your machine. Then, install the necessary dependencies by running:
-
-```bash
-pip install -r requirements.txt
